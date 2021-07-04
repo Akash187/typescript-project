@@ -7,5 +7,5 @@ function initMap(): void {
 	})
 }
 
-//Uncomment below link to rendering google map
-window.initMap = initMap
+//Uncomment below line to correctly rendering google map
+//window.initMap = initMap
