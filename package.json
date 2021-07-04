@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"start": "parcel serve index.html",
+		"build": "parcel build index.html"
+	},
+	"name": "typescript-project",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/googlemaps": "^3.43.3",
+		"parcel": "^2.0.0-beta.3.1"
+	}
+}
